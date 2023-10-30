@@ -1,6 +1,6 @@
 Flask
-Flask_Login
+Flask_Login==0.6.2
 flask_sqlalchemy==3.0.5
-Werkzeug==2.3.6
+Werkzeug
 gunicorn
 python-dotenv
